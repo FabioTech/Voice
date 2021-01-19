@@ -137,7 +137,7 @@ class GeniusWrapper extends API {
 
 let store = new Store();
 let notifier = new Notifier();
-let genius = new GeniusWrapper('https://api.genius.com', 'fHdWyb5Y9UABQQRi9PQFvmQJLtqAtX8sRc6gCLDPDyKpYpzj4n1C7Hb1PTznq1-4');
+let genius = new GeniusWrapper('https://api.genius.com', 'Y9oMjgNu_A3S7juoCJO54JA01wiTBDp3wS7leXGf2gkKUPHQuUhDMe4bhdyVNIvl');
 let spotify = new SpotifyWrapper('https://api.spotify.com/v1', {
   clientID: '6b43eb7913014cbb893e85efaf4de1c7',
   clientSecret: 'c760e41e65e74a89b2731d6d143196d7' });
